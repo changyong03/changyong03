@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Changyong Park
 
-Studying Statistics, Mathematics, and Reinforcement Learning at Yonsei Univ.
+Studying Statistics, Mathematics at Yonsei Univ.
 
 [📄 Download My CV](./Changyong_PARK_CV.pdf)
 
