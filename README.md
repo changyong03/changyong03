@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Changyong Park
 
-Studying Statistics, Mathematics at Yonsei Univ.
-Now at LG AI Research
+Studying Statistics, Mathematics at Yonsei Univ.\\
+Now at LG AI Research.
 
 [📄 Download My CV](./ChangyongPARK_CV.pdf)(last updated June 2026)
 
